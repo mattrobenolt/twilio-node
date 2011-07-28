@@ -1,0 +1,21 @@
+{
+  "name": "twilio",
+  "description": "Twilio API",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattrobenolt/twilio-node.git"
+  },
+  "author": "Matt Robenolt",
+  "main": "./lib/twilio",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "node-base64": "0.0.1",
+    "jwt": "0.1.0"
+  }
+}
